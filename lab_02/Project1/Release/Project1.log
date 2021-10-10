@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (lab_01.vcxproj, Project1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  GraphicObject.cpp
+  main.cpp
+C:\Users\kiril\Documents\GitHub\AOKG\AOKG\lab_02\Project1\main.cpp(66,36): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  Previous IPDB not found, fall back to full compilation.
+  Создание кода
+  All 60 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Project1.vcxproj -> C:\Users\kiril\Documents\GitHub\AOKG\AOKG\lab_02\Release\lab_02.exe
